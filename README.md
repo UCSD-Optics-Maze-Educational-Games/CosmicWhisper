@@ -121,7 +121,6 @@ By analyzing these spectra visually using the spectrometer, players in the game 
 </p>
 
 ## Schematic
-
 <p align="center">
   <img src="images/cosmic_whisper_sch.png" alt="schematic">
 </p>
